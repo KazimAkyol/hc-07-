@@ -24,17 +24,21 @@ h1{
 #par3{
     color: green;
     text-align: right;
+    line-height: 1.5;
 
 }
 
 #par4{
     color: crimson;
     text-decoration: underline dotted;
+    text-indent: 20px;
+    letter-spacing: 5px;
 
 }
 
 #par5{
     text-decoration: overline wavy;
+    word-spacing: 10px;
 
 }
 
