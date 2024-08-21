@@ -1,0 +1,54 @@
+h1{
+    border: 2px solid red;
+    color: red;
+    text-align: center;
+}
+
+#par1{
+    color: blue;
+    text-align: justify;
+    text-shadow: 1px 1px 10px black;
+    column-count: 3;
+    column-rule: 3px solid red;
+    -webkit-column-count: 3;
+
+}
+
+#par2{
+    text-align: justify;
+    direction: rtl;
+    text-shadow: 3px 5px 3px red;
+
+}
+
+#par3{
+    color: green;
+    text-align: right;
+
+}
+
+#par4{
+    color: crimson;
+    text-decoration: underline dotted;
+
+}
+
+#par5{
+    text-decoration: overline wavy;
+
+}
+
+#par6{
+    /* text-decoration: line-through dashed; */
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    /* yukaridaki yazi ayna görüntüsü */
+    background-color: rgba(23, 1, 1, 0.493);
+    color: yellow;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px black;
+    text-shadow: 2px 2px 5px red;
+
+
+}
