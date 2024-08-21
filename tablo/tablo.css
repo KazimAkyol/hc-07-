@@ -1,0 +1,36 @@
+
+
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+
+tr:nth-child(even){
+   background-color: gray;
+   color: white;
+}
+
+td:hover{
+    background-color: black;
+    color: white;
+}
+
+td{
+    padding: 10px;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+.martin1{
+    background-image: url("https://picsum.photos/id/1060/400/400");
+    background-size: cover;
+    color:yellow;
+    text-shadow: 3px 3px 3px red;
