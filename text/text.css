@@ -1,10 +1,10 @@
-h1{
+h1 {
     border: 2px solid red;
     color: red;
     text-align: center;
 }
 
-#par1{
+#par1 {
     color: blue;
     text-align: justify;
     text-shadow: 1px 1px 10px black;
@@ -14,21 +14,21 @@ h1{
 
 }
 
-#par2{
+#par2 {
     text-align: justify;
     direction: rtl;
     text-shadow: 3px 5px 3px red;
 
 }
 
-#par3{
+#par3 {
     color: green;
     text-align: right;
     line-height: 1.5;
 
 }
 
-#par4{
+#par4 {
     color: crimson;
     text-decoration: underline dotted;
     text-indent: 20px;
@@ -36,13 +36,13 @@ h1{
 
 }
 
-#par5{
+#par5 {
     text-decoration: overline wavy;
     word-spacing: 10px;
 
 }
 
-#par6{
+#par6 {
     /* text-decoration: line-through dashed; */
     direction: rtl;
     unicode-bidi: bidi-override;
